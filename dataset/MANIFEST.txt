@@ -1,0 +1,6 @@
+master_records=650
+train=400
+validation=100
+test=150
+golden=30
+labels={'SCAM': 325, 'LEGITIMATE': 325}
